@@ -1,0 +1,33 @@
+/node_modules
+/public/hot
+/public/storage
+/public/build
+/public/fonts-manifest.dev.json
+/storage/*.key
+/storage/pail
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+.phpunit.cache
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE & Editor
+/.idea
+/.vscode
+/.fleet
+/.zed
+/.cursor/
+/.nova
+/.codex
+.phpactor.json
+_ide_helper.php
+Homestead.json
+Homestead.yaml
+
+# SQLite
+database/*.sqlite
+database/*.sqlite-journal
